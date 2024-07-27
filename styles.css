@@ -34,7 +34,6 @@ li {
     justify-content: space-between;
     transition: background-color 0.5s ease;
 }
-
 li.completed {
     text-decoration: line-through;
     color: #888;
