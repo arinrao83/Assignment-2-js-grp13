@@ -74,6 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else {
                 li.classList.remove('completed');
                 li.style.backgroundColor = '#fff';
+                stopwatch.start();
             }
             
         });
